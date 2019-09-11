@@ -1,0 +1,44 @@
+
+a {
+    color:#E5E8E8;
+}
+
+body {
+    color: #E5E8E8; /* Dark gray */
+    background-color: #414141;
+    font-size: 16px
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+hr {
+   background-color: #17202A; 
+   border-color: #17202A;
+}
+
+nav li {
+  display: inline;
+  color: #E5E8E8;
+}
+
+.active {
+  background-color: #000000;
+}
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
